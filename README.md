@@ -15,3 +15,4 @@ Advanced: User can refresh tweets timeline by pulling down to refresh (i.e pull-
 Bonus: Compose activity is replaced with a modal overlay
 
 Screen shots:
+![twitterclient](https://cloud.githubusercontent.com/assets/6395284/6590960/30dc27c0-c776-11e4-9426-9b90c2abeabc.gif)
